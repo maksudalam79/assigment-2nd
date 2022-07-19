@@ -1,0 +1,103 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* ---------top section--------- */
+.top-in {
+    display: flex;
+    background-color: #161616;
+    border: 1px solid;
+    border-radius: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.topin-in {
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+
+}
+
+.topin-in p {
+    font-weight: 100;
+}
+
+.topin-in h1 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.topin-in button {
+    border: 0px solid;
+    background-color: #DD0000;
+    padding: 16px 25px;
+    border-radius: 5px;
+    gap: 10px;
+
+}
+
+.topin-in button a {
+    text-decoration: none;
+    color: white;
+}
+
+.topin-in button .fa-solid {
+    color: white;
+    margin-left: 15px;
+}
+
+.topin-img {
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: -5px;
+}
+
+/* ---------top section end---------  */
+
+
+.mid-button {
+    background-color: #161616;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 800px;
+    border-radius: 10px;
+    padding: 20px;
+
+
+}
+
+.mid-button a {
+    text-decoration: none;
+    color: black
+}
+
+#button-1 {
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 3px;
+
+}
+
+#button-2 {
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 20px;
+
+}
+
+#button-3 {
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 20px;
+    background-color: #DD0000;
+
+}
